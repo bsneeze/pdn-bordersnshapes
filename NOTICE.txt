@@ -1,0 +1,2 @@
+Borders N' Shapes - final version - moved to GitHub
+https://github.com/bsneeze/pdn-bordersnshapes
